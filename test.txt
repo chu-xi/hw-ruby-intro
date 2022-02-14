@@ -1,0 +1,11 @@
+Run options: include {:full_description=>/\#sum\ /}
+
+Ruby intro part 1
+  #sum
+    should be defined
+    returns correct sum [20 points]
+    works on the empty array [10 points]
+
+Finished in 0.00568 seconds (files took 0.09459 seconds to load)
+3 examples, 0 failures
+
